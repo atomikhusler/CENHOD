@@ -1,0 +1,10 @@
+/* src/app.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000; /* True AMOLED Black */
+  color: #ffffff;
+  user-select: none; /* Prevents ugly text highlighting on mobile taps */
+}
