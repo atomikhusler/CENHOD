@@ -1,1 +1,1 @@
-{"name":"CenHoD Elite","short_name":"CenHoD","start_url":"/CENHOD/","display":"standalone","background_color":"#000000","lang":"en","scope":"/CENHOD/","theme_color":"#000000"}
+{"name":"CenHoD Elite","short_name":"CenHoD","start_url":"/CENHOD/","display":"standalone","background_color":"#000000","lang":"en","scope":"/CENHOD/","description":"Secure Data Entry Node","theme_color":"#000000","icons":[{"src":"icon.svg","sizes":"192x192 512x512","type":"image/svg+xml","purpose":"any maskable"}]}
